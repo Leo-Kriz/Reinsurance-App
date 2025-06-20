@@ -1,0 +1,5 @@
+dash
+proteus-actuarial-library
+pandas
+numpy
+dash_daq
